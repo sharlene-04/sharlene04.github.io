@@ -11,9 +11,9 @@ website:
     - href: index.qmd
       text: Home
     - href: project.qmd
-      text: Project
+      text: FYP Project
     - href: data-visualization.qmd
-      text: Visualization
+      text: Data Visualization
     - href: reflection.qmd
       text: Reflection
 

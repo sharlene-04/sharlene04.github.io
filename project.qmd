@@ -1,8 +1,8 @@
 # FYP Project: NYP Open House Queue System
 
 **Institution**: Nanyang Polytechnic  
-**Course**: Business and Financial Technology
-**Year**: September 2024 - November 2024
+**Course**: Business and Financial Technology  
+**Year**: September 2024 - November 2025
 
 ## Project Brief
 Developed a **queue management system** for luggage tag customization and collection during NYP's 2025 Open House. This queue-based system digitalized the visitor flow process to improve efficiency and user experience.

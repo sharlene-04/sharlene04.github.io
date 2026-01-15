@@ -109,7 +109,7 @@
     "href": "project.html",
     "title": "FYP Project: NYP Open House Queue System",
     "section": "",
-    "text": "Institution: Nanyang Polytechnic\nCourse: Business and Financial Technology Year: September 2024 - November 2024\n\n\nDeveloped a queue management system for luggage tag customization and collection during NYP’s 2025 Open House. This queue-based system digitalized the visitor flow process to improve efficiency and user experience.\n\n\n\n\nVirtual queue system via QR codes\nLuggage tag customization interface\nAutomated notification for collection\nReal-time queue monitoring dashboard\n\n\n\n\n\nFrontend: HTML, CSS, JavaScript\nBackend: Python, Full Stack Development\nDatabase: SQLite\n\n\n\n\n\nReduced wait times by 65%\nProcessed 500+ tags over 2 days\nPositive feedback from visitors and staff\n\nHow NYP Open House typically looks:\n Video Source: YouTube - Nanyang Polytechnic"
+    "text": "Institution: Nanyang Polytechnic\nCourse: Business and Financial Technology\nYear: September 2024 - November 2025\n\n\nDeveloped a queue management system for luggage tag customization and collection during NYP’s 2025 Open House. This queue-based system digitalized the visitor flow process to improve efficiency and user experience.\n\n\n\n\nVirtual queue system via QR codes\nLuggage tag customization interface\nAutomated notification for collection\nReal-time queue monitoring dashboard\n\n\n\n\n\nFrontend: HTML, CSS, JavaScript\nBackend: Python, Full Stack Development\nDatabase: SQLite\n\n\n\n\n\nReduced wait times by 65%\nProcessed 500+ tags over 2 days\nPositive feedback from visitors and staff\n\nHow NYP Open House typically looks:\n Video Source: YouTube - Nanyang Polytechnic"
   },
   {
     "objectID": "project.html#project-brief",

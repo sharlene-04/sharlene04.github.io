@@ -1,0 +1,36 @@
+# Reflection on the Use of GenAI
+
+## Which GenAI Tool I Used
+For this assessment, I primarily used **ChatGPT**. I chose it mainly because it's the primary GenAI tool that I'm already familiar with and use regularly.
+
+## How GenAI Helped with This Assessment
+ChatGPT was particularly helpful when I encountered technical issues. For example:
+
+**GitHub Authentication Problem:**
+Initially, I had problems with my GitHub because I was previously logged in with my personal email and later changed to my school email. This caused a clash, and I wasn't able to push my files to GitHub. ChatGPT provided me with solution recommendations, which was extremely useful as I wouldn't have known what to do otherwise.
+
+**Other Assistance Included:**
+- Explaining Quarto and GitHub Pages setup
+- Providing markdown formatting examples
+- Troubleshooting R code errors
+- Suggesting content structure for different pages
+
+## Benefits of Using GenAI
+The tool really helped with reducing stress and panic. I know I would have panicked much more when things went wrong, and I would have spent significantly more time researching on Google for possible solutions. ChatGPT provided quick, targeted assistance that saved me time and reduced anxiety.
+
+## Challenges of Using GenAI
+One significant challenge with using ChatGPT is ensuring information accuracy, as the AI sometimes provides solutions that are outdated or don't work in practice, requiring me to verify suggestions and try multiple approaches. Additionally, the tool lacks context understanding—it cannot see my screen or know my exact setup, so even with specific descriptions, it occasionally misunderstands my situation and offers irrelevant advice. There's also a risk of over-reliance; I had to consciously balance seeking AI help with developing my own troubleshooting skills to avoid dependency. Another issue is that responses can be too generic, missing the nuances of my specific problems and necessitating repeated follow-up questions. Finally, there's a learning curve for effective prompting—I needed to learn how to phrase questions precisely to obtain useful answers, as poorly worded queries often led to confusing or unhelpful responses.
+
+## Future Applications in Study & Work
+I think GenAI would serve as a form of confirmation for me - a way I can double-check my work before submitting. It could also assist with planning and brainstorming ideas. In future studies and work, I envision using it for:
+
+- **Quick validations** of my approaches
+- **Brainstorming sessions** when starting new projects
+- **Error checking** in code and documents
+- **Learning explanations** for complex topics
+- **Template generation** for reports and presentations
+
+## Overall Thoughts
+Using GenAI for this assessment was like having a knowledgeable assistant available 24/7. While it couldn't solve every problem perfectly, it significantly reduced my stress and helped me overcome technical hurdles more efficiently. The key lesson was learning to use it as a tool rather than a crutch - taking its suggestions as starting points but applying my own judgment and understanding.
+
+The experience showed me that GenAI is most effective when combined with human critical thinking. It provides options and possibilities, but I need to evaluate, adapt, and implement the solutions that work best for my specific context.

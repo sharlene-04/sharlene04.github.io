@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Sharlene Teo"
+  favicon: favicon.png
+  navbar:
+    logo: images/sit_logo.png
+    left:
+    - href: index.qmd
+      text: Home
+    - href: project.qmd
+      text: FYP Project
+    - href: data-visualization.qmd
+      text: Data Visualization
+    - href: reflection.qmd
+      text: Reflection
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: left

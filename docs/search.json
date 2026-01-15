@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "For this assessment, I primarily used ChatGPT. I chose it mainly because it’s the primary GenAI tool that I’m already familiar with and use regularly.\n\n\n\nChatGPT was particularly helpful when I encountered technical issues. For example:\nGitHub Authentication Problem: Initially, I had problems with my GitHub because I was previously logged in with my personal email and later changed to my school email. This caused a clash, and I wasn’t able to push my files to GitHub. ChatGPT provided me with solution recommendations, which was extremely useful as I wouldn’t have known what to do otherwise.\nOther Assistance Included: - Explaining Quarto and GitHub Pages setup - Providing markdown formatting examples - Troubleshooting R code errors - Suggesting content structure for different pages\n\n\n\nThe tool really helped with reducing stress and panic. I know I would have panicked much more when things went wrong, and I would have spent significantly more time researching on Google for possible solutions. ChatGPT provided quick, targeted assistance that saved me time and reduced anxiety.\n\n\n\nOne significant challenge with using ChatGPT is ensuring information accuracy, as the AI sometimes provides solutions that are outdated or don’t work in practice, requiring me to verify suggestions and try multiple approaches. Additionally, the tool lacks context understanding—it cannot see my screen or know my exact setup, so even with specific descriptions, it occasionally misunderstands my situation and offers irrelevant advice. There’s also a risk of over-reliance; I had to consciously balance seeking AI help with developing my own troubleshooting skills to avoid dependency. Another issue is that responses can be too generic, missing the nuances of my specific problems and necessitating repeated follow-up questions. Finally, there’s a learning curve for effective prompting—I needed to learn how to phrase questions precisely to obtain useful answers, as poorly worded queries often led to confusing or unhelpful responses.\n\n\n\nI think GenAI would serve as a form of confirmation for me - a way I can double-check my work before submitting. It could also assist with planning and brainstorming ideas. In future studies and work, I envision using it for:\n\nQuick validations of my approaches\nBrainstorming sessions when starting new projects\nError checking in code and documents\nLearning explanations for complex topics\nTemplate generation for reports and presentations\n\n\n\n\nUsing GenAI for this assessment was like having a knowledgeable assistant available 24/7. While it couldn’t solve every problem perfectly, it significantly reduced my stress and helped me overcome technical hurdles more efficiently. The key lesson was learning to use it as a tool rather than a crutch - taking its suggestions as starting points but applying my own judgment and understanding.\nThe experience showed me that GenAI is most effective when combined with human critical thinking. It provides options and possibilities, but I need to evaluate, adapt, and implement the solutions that work best for my specific context."
+  },
+  {
+    "objectID": "reflection.html#which-genai-tool-i-used",
+    "href": "reflection.html#which-genai-tool-i-used",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "For this assessment, I primarily used ChatGPT. I chose it mainly because it’s the primary GenAI tool that I’m already familiar with and use regularly."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-with-this-assessment",
+    "href": "reflection.html#how-genai-helped-with-this-assessment",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "ChatGPT was particularly helpful when I encountered technical issues. For example:\nGitHub Authentication Problem: Initially, I had problems with my GitHub because I was previously logged in with my personal email and later changed to my school email. This caused a clash, and I wasn’t able to push my files to GitHub. ChatGPT provided me with solution recommendations, which was extremely useful as I wouldn’t have known what to do otherwise.\nOther Assistance Included: - Explaining Quarto and GitHub Pages setup - Providing markdown formatting examples - Troubleshooting R code errors - Suggesting content structure for different pages"
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "The tool really helped with reducing stress and panic. I know I would have panicked much more when things went wrong, and I would have spent significantly more time researching on Google for possible solutions. ChatGPT provided quick, targeted assistance that saved me time and reduced anxiety."
+  },
+  {
+    "objectID": "reflection.html#challenges-of-using-genai",
+    "href": "reflection.html#challenges-of-using-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "One significant challenge with using ChatGPT is ensuring information accuracy, as the AI sometimes provides solutions that are outdated or don’t work in practice, requiring me to verify suggestions and try multiple approaches. Additionally, the tool lacks context understanding—it cannot see my screen or know my exact setup, so even with specific descriptions, it occasionally misunderstands my situation and offers irrelevant advice. There’s also a risk of over-reliance; I had to consciously balance seeking AI help with developing my own troubleshooting skills to avoid dependency. Another issue is that responses can be too generic, missing the nuances of my specific problems and necessitating repeated follow-up questions. Finally, there’s a learning curve for effective prompting—I needed to learn how to phrase questions precisely to obtain useful answers, as poorly worded queries often led to confusing or unhelpful responses."
+  },
+  {
+    "objectID": "reflection.html#future-applications-in-study-work",
+    "href": "reflection.html#future-applications-in-study-work",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "I think GenAI would serve as a form of confirmation for me - a way I can double-check my work before submitting. It could also assist with planning and brainstorming ideas. In future studies and work, I envision using it for:\n\nQuick validations of my approaches\nBrainstorming sessions when starting new projects\nError checking in code and documents\nLearning explanations for complex topics\nTemplate generation for reports and presentations"
+  },
+  {
+    "objectID": "reflection.html#overall-thoughts",
+    "href": "reflection.html#overall-thoughts",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Using GenAI for this assessment was like having a knowledgeable assistant available 24/7. While it couldn’t solve every problem perfectly, it significantly reduced my stress and helped me overcome technical hurdles more efficiently. The key lesson was learning to use it as a tool rather than a crutch - taking its suggestions as starting points but applying my own judgment and understanding.\nThe experience showed me that GenAI is most effective when combined with human critical thinking. It provides options and possibilities, but I need to evaluate, adapt, and implement the solutions that work best for my specific context."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website!",
+    "section": "",
+    "text": "SIT Logo\n\n\n\nHi! I’m Sharlene\nApplied Computing Student\nSingapore Institute of Technology\n\n\n\n\nThis website showcases my journey through Applied Computing at SIT, featuring technical projects, data analysis work, and reflections on modern development tools.\n\n\n\nFYP Project – Queue system development for large-scale events\nData Visualization – Healthcare data analysis with actionable insights\n\nAI Reflection – Learning experiences with generative AI tools\n\nThis site is continuously updated as I progress through my studies at SIT."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Welcome to My Personal Website!",
+    "section": "",
+    "text": "This website showcases my journey through Applied Computing at SIT, featuring technical projects, data analysis work, and reflections on modern development tools.\n\n\n\nFYP Project – Queue system development for large-scale events\nData Visualization – Healthcare data analysis with actionable insights\n\nAI Reflection – Learning experiences with generative AI tools\n\nThis site is continuously updated as I progress through my studies at SIT."
+  },
+  {
+    "objectID": "data-visualization.html",
+    "href": "data-visualization.html",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "Dengue Cases 2019-2024\n\n\nAnnual dengue cases in Singapore (Source: NEA)\nNote: I previously created a detailed line chart visualization of dengue case trends, analyzing seasonal patterns and outbreak correlations. While that specific chart file isn’t available on my current device, this numerical data represents the same analysis I conducted on Singapore’s dengue situation and its healthcare implications.\n\n\n\nPeople are hospitalized for dengue due to: - Severe symptoms: High fever, bleeding, organ impairment - Dengue Shock Syndrome: Life-threatening drop in blood pressure - High-risk groups: Elderly, pregnant women, chronic illness patients - Dehydration: Requires IV fluids and monitoring\n\n\n\n\nBed occupancy: Sudden surges strain hospital capacity\nResource allocation: Diverts staff from other departments\nCost burden: Estimated $10,000+ per hospitalized patient\nPreventive costs: NEA spends millions on mosquito control annually\n\n\n\n\n\nNEA surveillance: Regular inspections and fogging\nPublic education: “Do the Mozzie Wipeout” campaigns\nCommunity reporting: MyENV app for breeding site alerts\nVaccination: For eligible at-risk populations\n\n\n\n\n\nPeak in 2020/2022: Weather patterns + reduced control during COVID\nLow in 2021: Movement restrictions limited mosquito breeding\n2024 estimate: Shows ongoing challenge despite control measures\nPattern: Dengue remains cyclical, requiring constant vigilance\n\nInsight: Singapore’s healthcare succeeds in managing outbreaks through integrated prevention and rapid response systems."
+  },
+  {
+    "objectID": "data-visualization.html#the-data",
+    "href": "data-visualization.html#the-data",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "Dengue Cases 2019-2024\n\n\nAnnual dengue cases in Singapore (Source: NEA)\nNote: I previously created a detailed line chart visualization of dengue case trends, analyzing seasonal patterns and outbreak correlations. While that specific chart file isn’t available on my current device, this numerical data represents the same analysis I conducted on Singapore’s dengue situation and its healthcare implications."
+  },
+  {
+    "objectID": "data-visualization.html#causes-of-dengue-hospitalization",
+    "href": "data-visualization.html#causes-of-dengue-hospitalization",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "People are hospitalized for dengue due to: - Severe symptoms: High fever, bleeding, organ impairment - Dengue Shock Syndrome: Life-threatening drop in blood pressure - High-risk groups: Elderly, pregnant women, chronic illness patients - Dehydration: Requires IV fluids and monitoring"
+  },
+  {
+    "objectID": "data-visualization.html#impact-on-healthcare-system",
+    "href": "data-visualization.html#impact-on-healthcare-system",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "Bed occupancy: Sudden surges strain hospital capacity\nResource allocation: Diverts staff from other departments\nCost burden: Estimated $10,000+ per hospitalized patient\nPreventive costs: NEA spends millions on mosquito control annually"
+  },
+  {
+    "objectID": "data-visualization.html#prevention-strategies",
+    "href": "data-visualization.html#prevention-strategies",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "NEA surveillance: Regular inspections and fogging\nPublic education: “Do the Mozzie Wipeout” campaigns\nCommunity reporting: MyENV app for breeding site alerts\nVaccination: For eligible at-risk populations"
+  },
+  {
+    "objectID": "data-visualization.html#data-analysis",
+    "href": "data-visualization.html#data-analysis",
+    "title": "Data Visualization: Dengue in Singapore",
+    "section": "",
+    "text": "Peak in 2020/2022: Weather patterns + reduced control during COVID\nLow in 2021: Movement restrictions limited mosquito breeding\n2024 estimate: Shows ongoing challenge despite control measures\nPattern: Dengue remains cyclical, requiring constant vigilance\n\nInsight: Singapore’s healthcare succeeds in managing outbreaks through integrated prevention and rapid response systems."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "FYP Project: NYP Open House Queue System",
+    "section": "",
+    "text": "Institution: Nanyang Polytechnic\nCourse: Business and Financial Technology Year: September 2024 - November 2024\n\n\nDeveloped a queue management system for luggage tag customization and collection during NYP’s 2025 Open House. This queue-based system digitalized the visitor flow process to improve efficiency and user experience.\n\n\n\n\nVirtual queue system via QR codes\nLuggage tag customization interface\nAutomated notification for collection\nReal-time queue monitoring dashboard\n\n\n\n\n\nFrontend: HTML, CSS, JavaScript\nBackend: Python, Full Stack Development\nDatabase: SQLite\n\n\n\n\n\nReduced wait times by 65%\nProcessed 500+ tags over 2 days\nPositive feedback from visitors and staff\n\nHow NYP Open House typically looks:\n Video Source: YouTube - Nanyang Polytechnic"
+  },
+  {
+    "objectID": "project.html#project-brief",
+    "href": "project.html#project-brief",
+    "title": "FYP Project: NYP Open House Queue System",
+    "section": "",
+    "text": "Developed a queue management system for luggage tag customization and collection during NYP’s 2025 Open House. This queue-based system digitalized the visitor flow process to improve efficiency and user experience."
+  },
+  {
+    "objectID": "project.html#key-features",
+    "href": "project.html#key-features",
+    "title": "FYP Project: NYP Open House Queue System",
+    "section": "",
+    "text": "Virtual queue system via QR codes\nLuggage tag customization interface\nAutomated notification for collection\nReal-time queue monitoring dashboard"
+  },
+  {
+    "objectID": "project.html#technologies",
+    "href": "project.html#technologies",
+    "title": "FYP Project: NYP Open House Queue System",
+    "section": "",
+    "text": "Frontend: HTML, CSS, JavaScript\nBackend: Python, Full Stack Development\nDatabase: SQLite"
+  },
+  {
+    "objectID": "project.html#outcome",
+    "href": "project.html#outcome",
+    "title": "FYP Project: NYP Open House Queue System",
+    "section": "",
+    "text": "Reduced wait times by 65%\nProcessed 500+ tags over 2 days\nPositive feedback from visitors and staff\n\nHow NYP Open House typically looks:\n Video Source: YouTube - Nanyang Polytechnic"
+  }
+]

@@ -1,0 +1,22 @@
+# Welcome to My Personal Website!
+
+::: {style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px"}
+![SIT Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_p4QRPK_CDEpQVMCYdayxG2MJ33D9llMvg&s){width=120px}
+
+<div>
+**Hi! I'm Sharlene**  
+Applied Computing Student  
+Singapore Institute of Technology
+</div>
+:::
+
+## About This Portfolio
+This website showcases my journey through **Applied Computing** at SIT, featuring technical projects, data analysis work, and reflections on modern development tools.
+
+### Explore My Work:
+1. **FYP Project** – Queue system development for large-scale events
+2. **Data Visualization** – Healthcare data analysis with actionable insights  
+3. **AI Reflection** – Learning experiences with generative AI tools
+
+
+*This site is continuously updated as I progress through my studies at SIT.*

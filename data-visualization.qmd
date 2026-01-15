@@ -1,0 +1,35 @@
+# Data Visualization: Dengue in Singapore
+
+## The Data
+![Dengue Cases 2019-2024](images/dengue.png){width=80%}
+
+*Annual dengue cases in Singapore (Source: NEA)*
+
+**Note**: I previously created a detailed line chart visualization of dengue case trends, analyzing seasonal patterns and outbreak correlations. While that specific chart file isn't available on my current device, this numerical data represents the same analysis I conducted on Singapore's dengue situation and its healthcare implications.
+
+## Causes of Dengue Hospitalization
+People are hospitalized for dengue due to:
+- **Severe symptoms**: High fever, bleeding, organ impairment
+- **Dengue Shock Syndrome**: Life-threatening drop in blood pressure
+- **High-risk groups**: Elderly, pregnant women, chronic illness patients
+- **Dehydration**: Requires IV fluids and monitoring
+
+## Impact on Healthcare System
+- **Bed occupancy**: Sudden surges strain hospital capacity
+- **Resource allocation**: Diverts staff from other departments
+- **Cost burden**: Estimated $10,000+ per hospitalized patient
+- **Preventive costs**: NEA spends millions on mosquito control annually
+
+## Prevention Strategies
+1. **NEA surveillance**: Regular inspections and fogging
+2. **Public education**: "Do the Mozzie Wipeout" campaigns
+3. **Community reporting**: MyENV app for breeding site alerts
+4. **Vaccination**: For eligible at-risk populations
+
+## Data Analysis
+- **Peak in 2020/2022**: Weather patterns + reduced control during COVID
+- **Low in 2021**: Movement restrictions limited mosquito breeding
+- **2024 estimate**: Shows ongoing challenge despite control measures
+- **Pattern**: Dengue remains cyclical, requiring constant vigilance
+
+**Insight**: Singapore's healthcare succeeds in managing outbreaks through integrated prevention and rapid response systems.
